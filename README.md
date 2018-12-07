@@ -121,12 +121,12 @@ main()
 #include
 #include
 void balik(char *k){
-if(*k!=”){
+if(*k!=â€){
 balik(&k[1]);
 cout<
 }
 }main(){
-char *kata=”....”;--> //untuk masukan kata
+char *kata=â€....â€;--> //untuk masukan kata
 balik(kata);
 cout<
 return 0;
@@ -145,7 +145,7 @@ cout << s[0];
 }
 int main()
 {
-      char* kata = (char*) "amirul";
+      char* kata = (char*) "Lailatussadah";
     balik(kata); cout << endl;
     return 0;
 
