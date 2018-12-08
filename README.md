@@ -152,4 +152,4 @@ int main()
 }
 ```
 **Hasil**
-![hasil](https://raw.githubusercontent.com/Amirul29/praktikum7/master/soal3.png)
+![hasil](https://github.com/lailatussadah/praktikum7/blob/master/soal3.png)
